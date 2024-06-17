@@ -78,12 +78,18 @@ header h1 {
     background-color: rgb(239, 196, 166);
 }
 
+h2{
+    padding: 2em;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
 .article {
     margin-bottom: 1rem;
     display: flex;
     flex-direction: column;
     text-align: justify;
-    padding-left: 2em;
+    padding: 2em;
 }
 
 .article img {
